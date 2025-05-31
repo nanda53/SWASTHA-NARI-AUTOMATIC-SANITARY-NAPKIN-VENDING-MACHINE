@@ -9,7 +9,7 @@ An IoT-based vending machine that dispenses sanitary napkins using RFID card acc
 ## 🔧 Features
 
 - **RFID Access**: Tap an RFID card to dispense a napkin.
-- **Email Trigger**: Automatically dispenses upon receiving a specific transaction email (e.g., from Karnataka Bank).
+- **UPI Trigger**: Automatically dispenses upon receiving a specific transaction email (e.g., from Karnataka Bank).
 - **Arduino Control**: Controls motor to release napkin.
 - **Python-Gmail Integration**: Reads unread Gmail messages for a specific subject.
 
