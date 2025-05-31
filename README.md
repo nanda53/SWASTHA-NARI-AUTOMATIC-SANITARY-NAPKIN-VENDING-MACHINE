@@ -20,7 +20,6 @@ An IoT-based vending machine that dispenses sanitary napkins using RFID card acc
 - Arduino UNO
 - MFRC522 RFID module
 - DC Motor + L298N Driver
-- RFID reader
 - Python 3.1
 - Gmail IMAP (App Password)
 - Serial Communication
