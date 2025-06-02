@@ -32,7 +32,7 @@ An IoT-based vending machine that dispenses sanitary napkins using RFID card acc
 
 ---
 
-## 📁 Project Vedio
+## 📁 Project Video
 https://github.com/user-attachments/assets/0aab1110-9261-4ac8-8d1d-267617f2d16c
 
 
